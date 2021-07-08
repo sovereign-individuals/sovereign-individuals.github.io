@@ -1,0 +1,17 @@
+entries:
+  - title: <b>Bitcoin</b>
+    # url: /pages/bitcoin
+    entries:
+      - title: Some cybermoney will be at the core, and mastering it will be important. At this point it seems like it will be Bitcoin, and every other technology will be build on top of it, so mastering Bitcoin seems useful.
+        post_list:
+          category: bitcoin
+  - title: <b>Privacy</b>
+    # url: /pages/privacy
+    entries:
+      - title: Once someone with good understanding of the technology decides to get you, they can always figure out how. Thus the best way to protect yourself and your wealth is to avoid others knowing about it. Core principle of privacy is breaking any links between your actions. Essentially having multiple separate identities, and most importantly separating your physical identity from your cyber-identities.
+        post_list:
+          category: privacy
+          # limit: 5
+          # show_more: true
+          # show_more_text: See more...
+          # show_more_url: archive.html
