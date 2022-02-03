@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Soverign Individuals
+title: Sovereign Individuals
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This website was inspired by <a href="https://www.goodreads.com/book/show/82256.The_Sovereign_Individual" target="_blank">Soverign Individual</a>, a book that predicted Bitcoin in 1997.
-  Here I will be collecting practical tips for anyone who wants to become Soverign Individual, like I do.
+  This website was inspired by <a href="https://www.goodreads.com/book/show/82256.The_Sovereign_Individual" target="_blank">The Sovereign Individual</a>, a book that predicted Bitcoin in 1997.
+  Here I will be collecting practical tips for anyone who wants to become sovereign individual, like I do.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -30,8 +30,8 @@ github_username:  jekyll
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
-  # back_home_text: ".." # customize text for homepage link in post layout
-  # date_format: "%Y-%m-%d" # customize how date is formatted
+  back_home_text: "BACK" # customize text for homepage link in post layout
+  date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: yes # show blog description in home page
 
 collections:
