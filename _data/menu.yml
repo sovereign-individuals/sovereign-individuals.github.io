@@ -8,7 +8,7 @@ entries:
   - title: <b>Privacy</b>
     # url: /pages/privacy
     entries:
-      - title: Once someone with good understanding of the technology decides to get you, they can always figure out how. Thus the best way to protect yourself and your wealth is to avoid others knowing about it. Core principle of privacy is breaking any links between your actions. Essentially having multiple separate identities, and most importantly separating your physical identity from your cyber-identities.
+      - title: Once someone with good understanding of the technology decides to get you, they can always figure out how. Thus the best way to protect yourself and your wealth is to avoid others knowing about it.
         post_list:
           category: privacy
           # limit: 5
