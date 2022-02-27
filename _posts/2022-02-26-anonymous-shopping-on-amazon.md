@@ -9,6 +9,7 @@ Do you wanna buy something from Amazon without anyone knowing you bought it?
 
 NOTE: I think this only works in US. Let me know if you figure out how to do this in other countries.
 
+- Use VPN you trust.
 - Create an Amazon account, using fake email (you can get one from [ProtonMail](https://protonmail.com/)).
 - Create virtual credit card, using [Moon](https://paywithmoon.com/).
 - Fund the credit card with bitcoin over Lightning (not from Coinbase). Only top up the amount you will need since this card will expire in 60 days and you will likely forget about it and loose any remaining funds.
