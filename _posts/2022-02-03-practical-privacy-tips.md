@@ -60,3 +60,5 @@ Once you start going down this rabbit hole, learning about what the possible thr
 You need to find the right balance for you. You don't worry about getting run by a car every morning, do you? You can do a privacy review, maybe once a year. You define your threat model, prioritize the main threats, decide how to minimize them, considering the value and cost (how much energy will it cost to implement) and then just follow it and don't worry.
 
 Keep it simple, and be consistent.
+
+[Stacker.news discussion](https://stacker.news/items/10069)

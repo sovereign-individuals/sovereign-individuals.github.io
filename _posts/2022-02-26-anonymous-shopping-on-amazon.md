@@ -15,3 +15,5 @@ NOTE: I think this only works in US. Let me know if you figure out how to do thi
 - Fund the credit card with bitcoin over Lightning (not from Coinbase). Only top up the amount you will need since this card will expire in 60 days and you will likely forget about it and loose any remaining funds.
 - Order whatever you want on Amazon, using this virtual credit card, shipping to a [locker box](https://www.amazon.com/location_selector?clientId=amazon_us_add_to_addressbook_mkt_mobile&countryCode=US&useCustomerContext=1) near you.
 - Pick it up.
+
+[Stacker.news discussion](https://stacker.news/items/12823)
