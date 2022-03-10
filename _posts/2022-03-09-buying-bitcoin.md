@@ -22,3 +22,6 @@ Worst case, you can use Zelle/Wise/Revolut with Bisq, but be aware that the bank
 Bisq has escrow, which means it's pretty safe (I got into a dispute myself twice and never lost money, it got resolved in both cases), but always start with small amounts when learning. There is some learning curve to master Bisq (the UX is the best), but once you do a few transactions you will get the hang of it.
 
 Another great option is to earn bitcoin directly, but I think that deserves its own post.
+
+
+[Stacker.news discussion](https://stacker.news/items/14117)
